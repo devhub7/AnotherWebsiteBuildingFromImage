@@ -1,0 +1,10 @@
+.header_area {background: #3aa2f6;
+background: -moz-linear-gradient(top,  #3aa2f6 0%, #0270c9 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3aa2f6), color-stop(100%,#0270c9));
+background: -webkit-linear-gradient(top,  #3aa2f6 0%,#0270c9 100%);
+background: -o-linear-gradient(top,  #3aa2f6 0%,#0270c9 100%);
+background: -ms-linear-gradient(top,  #3aa2f6 0%,#0270c9 100%);
+background: linear-gradient(to bottom,  #3aa2f6 0%,#0270c9 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3aa2f6', endColorstr='#0270c9',GradientType=0 );
+}
+
